@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Bản tĩnh GitHub Pages. Canonical trong HTML trỏ về URL gốc GAMEHAIVL.
